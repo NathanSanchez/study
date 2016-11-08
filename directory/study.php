@@ -4,4 +4,7 @@ echo $username;
 echo "<br>";
 $current_user = $username;
 echo $current_user;
+$team = array('Billy', 'Mary', 'Mike', 'Chris', 'Anne');
+echo $team;
+
 ?>
